@@ -1,0 +1,7 @@
+{
+  "name": "DreamWeaver",
+  "description": "A multi-modal dream journal that records, transcribes, visualizes, and interprets your dreams using advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
